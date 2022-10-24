@@ -1,0 +1,112 @@
+{
+    "home":"الصفحة الرئيسية",
+    "welcome_to":"مرحبا بك في",
+    "restaurant":"مطعم",
+    "enter_venue_info":"أدخل معلومات المكان",
+    "vanue_id":"معرف المكان",
+    "pincode":"الرمز السري",
+    "enter":"يدخل",
+    "or":"أو",
+    "scan_qr":"مسح QR",
+    "menu":"قائمة",
+    "please_give_us_your_valuable_feedback":"يرجى اعطاءنا ملاحظاتك القيمة",
+    "service_efficiency":"كفاءة الخدمة",
+    "cleanliness":"النظافة",
+    "overall_impression":"الإنطباع العام",
+    "would_you_like_to_visit_again":"هل تود الزيارة مرة أخرى؟",
+    "yes":"نعم",
+    "no":"لا",
+    "your_comment":"تعليقك",
+    "name":"اسم",
+    "email":"البريد الإلكتروني",
+    "submit":"إرسال",
+    "request_service":"طلب الخدمة",
+    "cart":"كارة",
+    "no_data":"لايوجد بيانات",
+    "requested_services":"الخدمات المطلوبة",
+    "cancel":"يلغي",
+    "your_request_has_been_sent":"تم ارسال طلبك",
+    "send":"يرسل",
+    "sinlge":"مفرد",
+    "double":"مزدوج",
+    "add_a_note":"أضف ملاحظة",
+    "add_to_cart":"أضف إلى السلة",
+    "request_checkout":"طلب الخروج",
+    "request_tap_water":"طلب مياه الحنفية",
+    "call_waiter":"نادل الاتصال",
+    "filter":"منقي",
+    "reset":"إعادة ضبط",
+    "filter_your_search":"تصفية البحث الخاص بك",
+    "refine_search":"خيارات البحث",
+    "discount":"خصم",
+    "demo_restaurant":"مطعم تجريبي",
+    "skip":"يتخطى",
+    "next":"التالي",
+    "continue":"يكمل",
+    "horizontal_menu":"قائمة أفقية",
+    "view_all_the_updated_menu_of_delicious_food":"عرض كل القائمة المحدثة من الطعام اللذيذ",
+    "vertical_menu":"القائمة العمودية",
+    "feedback":"ردود الفعل",
+    "give_your_valuable_feedback_to_us":"قدم لنا ملاحظاتك القيمة",
+    "error":"خطأ",
+    "Please_enter_the_Venue_ID":"الرجاء إدخال معرف المكان",
+    "Please_enter_the_pincode":"الرجاء إدخال الرمز السري",
+    "Invalid_Password":"رمز مرور خاطئ",
+    "Something_went_wrong":"هناك خطأ ما",
+    "Choose_Table":"اختر الجدول",
+    "Please_choose_your_request":"الرجاء اختيار طلبك"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+}

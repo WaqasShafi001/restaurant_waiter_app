@@ -1,0 +1,85 @@
+{
+    "home":"Ev",
+    "welcome_to":"Hoşgeldiniz",
+    "restaurant":"Restoran",
+    "enter_venue_info":"Mekan Bilgilerini Girin",
+    "vanue_id":"mekan kimliği",
+    "pincode":"pin kodu",
+    "enter":"Giriş",
+    "or":"Veya",
+    "scan_qr":"QR'yi tarayın",
+    "menu":"Menü",
+    "please_give_us_your_valuable_feedback":"Lütfen bize değerli görüşlerinizi bildirin",
+    "service_efficiency":"Hizmet Verimliliği",
+    "cleanliness":"Temizlik",
+    "overall_impression":"Genel izlenim",
+    "would_you_like_to_visit_again":"Tekrar ziyaret etmek ister misiniz?",
+    "yes":"Evet",
+    "no":"Numara",
+    "your_comment":"Senin yorumun",
+    "name":"İsim",
+    "email":"E-posta",
+    "submit":"Göndermek",
+    "request_service":"Hizmet Talebi",
+    "cart":"Araba",
+    "no_data":"Veri yok",
+    "requested_services":"Talep Edilen Hizmetler",
+    "cancel":"İptal etmek",
+    "your_request_has_been_sent":"talebiniz gönderildi",
+    "send":"Göndermek",
+    "sinlge":"tek",
+    "double":"çift",
+    "add_a_note":"Bir not ekle",
+    "add_to_cart":"Sepete ekle",
+    "request_checkout":"Ödeme İste",
+    "request_tap_water":"Musluk Suyu İste",
+    "call_waiter":"Garson Ara",
+    "filter":"Filtre",
+    "reset":"Sıfırla",
+    "filter_your_search":"Aramanızı Filtreleyin",
+    "refine_search":"Derinlemesine arama",
+    "discount":"Indirim",
+    "demo_restaurant":"Demo Restoran",
+    "skip":"Atlamak",
+    "next":"Sonraki",
+    "continue":"Devam etmek",
+    "horizontal_menu":"Yatay Menü",
+    "view_all_the_updated_menu_of_delicious_food":"Tüm güncellenmiş lezzetli yemek menüsünü görüntüleyin",
+    "vertical_menu":"Dikey Menü",
+    "feedback":"Geri bildirim",
+    "give_your_valuable_feedback_to_us":"Değerli görüşlerinizi bize iletin",
+    "error":"Hata",
+    "Please_enter_the_Venue_ID":"Lütfen Mekan Kimliğini girin",
+    "Please_enter_the_pincode":"Lütfen pin kodunu girin",
+    "Invalid_Password":"geçersiz şifre",
+    "Something_went_wrong":"Bir şeyler yanlış gitti",
+    "Choose_Table":"Tablo Seç",
+    "Please_choose_your_request":"Lütfen isteğinizi seçin"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+}
